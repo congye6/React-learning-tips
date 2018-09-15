@@ -1,4 +1,4 @@
-//必要的一些指令
+//必要的一些指令集合
 var instructions=[
     "create-react-app",
     "npm start",
